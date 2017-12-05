@@ -1,0 +1,106 @@
+    #cols{
+          background-color: #f6f6ed;
+          float: left;
+          position:relative;
+          margin:0;
+          padding:0;
+    }
+    
+    .illustration{
+        position: absolute;
+        bottom: 12px;
+        
+    }
+    
+    #cols img{
+        margin-left: 16px;
+    }
+    
+    
+        #col1, #col2{
+            float: left;
+            width: 201px;
+            padding: 3px;
+            padding-bottom: 80px;
+        }
+        
+        #col2{
+            background: transparent url(../images/coin.png) top right no-repeat;
+            padding-right: 8px;
+    
+        }
+        #col1{
+            border-right: black 1px dotted;
+    
+        
+        }
+        
+    #sites-home{
+        float: left;
+        width: 281px;
+        height:393px;
+        background: white url(../images/sites_big.gif) no-repeat top right;
+        padding-left: 16px;
+        position: relative;
+        padding-top: 6px;
+
+    }
+
+
+
+    
+    #sites-home a{
+        display:block;
+        position:absolute;
+        width: 281px;
+        height:393px;
+        top:0;
+
+    }
+       
+    h2{
+	
+	color: white;
+	font-family: helvetica, arial, sans-serif;
+	font-size:14px;
+	background-color:#3c68a5;
+	margin:0;
+	padding:6px;
+	margin:6px 12px;
+	text-transform: uppercase;
+	font-weight: normal;
+    }
+    
+    h3{
+	color: #3c68a5;
+	font-family: helvetica, arial, sans-serif;
+	font-size:12px;
+	margin:0;
+	padding:6px;
+	margin:6px 12px;
+	text-transform: uppercase;
+    }
+            
+    #header h1{
+	font-family: helvetica, arial, sans-serif;
+	text-transform: uppercase;
+	position: relative;
+	top: 112px;
+	margin:0;
+	padding:0;
+	right:30px;
+	font-size:8px;
+	text-align: right;
+	letter-spacing: 1px;
+	background-color: transparent;
+	font-weight: bold;
+    }
+    
+    #header h1 strong{
+	color:#63b228;
+    }
+    
+    #header h1 em{
+	font-style:normal;
+	color: #909090;
+    }
